@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365845905135",
+    "firebase_url": "https://noriba-1e624.firebaseio.com",
+    "project_id": "noriba-1e624",
+    "storage_bucket": "noriba-1e624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365845905135:android:a85276fb75bcd37f",
+        "android_client_info": {
+          "package_name": "com.example.farid.noriba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365845905135-l8ep1l12kng2ouaed9ee6p263tqh8be0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farid.noriba",
+            "certificate_hash": "d547dcf2334ae5a9808ad10cba09a2624a60b6ca"
+          }
+        },
+        {
+          "client_id": "365845905135-k2cdpd855gij89mhaup2gp506ve97p5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApO7DkwgLs6vsBeep0T0e6eYo20iukHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365845905135-k2cdpd855gij89mhaup2gp506ve97p5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
