@@ -45,6 +45,7 @@ public class Discussion extends AppCompatActivity {
         convReference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
+
                 //reinitialiser la list
                 convList.clear();
                 //boucler sur lensemble des noeuds
